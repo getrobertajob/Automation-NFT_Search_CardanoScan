@@ -6,6 +6,7 @@ AutoHotKey script to cycle through the pages of minted NFTs on CardanoScan and s
 4) Click on View All link
 5) Trigger script
 
+  
 -The script works by using the short key inputs in AutoHotKey to engage browser search feature.
 -Inputs the NFT name and enter key.
 -Moves cursor to the search field of browser where there is a visual indicator of results.
