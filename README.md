@@ -11,6 +11,6 @@ AutoHotKey script to cycle through the pages of minted NFTs on CardanoScan and s
 -Inputs the NFT name and enter key.  
 -Moves cursor to the search field of browser where there is a visual indicator of results.  
 -Then gets the color underneath the cursor.  
-- Compares it to variable that stores the color when the result matches 1 result.  
+-Compares it to variable that stores the color when the result matches 1 result.  
 -If result does not match than moves cursor to href for next page, clicks, and continues loop.  
 -If result matches than outputs alert message with beep and breaks loop.  
